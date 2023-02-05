@@ -1,6 +1,6 @@
 import decimal
 
-print('Enter a term. This program will find the fibonacci sequence number corresponding to it. \n')
+print('Enter a term. This program will find the fibonacci number corresponding to it. \n')
 print('Credit to math.hmc.edu for the formula. \n')
 
 try : 
